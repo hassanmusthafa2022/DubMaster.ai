@@ -1,0 +1,17 @@
+moviepy
+yt-dlp
+gunicorn
+openai-whisper
+googletrans==4.0.0-rc1
+pydub
+transformers
+git+https://github.com/huggingface/parler-tts.git
+flask
+pyngrok
+google-generativeai
+gunicorn
+soundfile
+numpy
+torch
+IPython
+requests
